@@ -1,0 +1,16 @@
+1	Document Library	File, Folder Management; Upload, Download File.
+2	Image Gallery	Image, Folder Management; Upload, Download Images.
+3	Blogs	
+4	Calendar	
+5	News	
+6	Polls	
+7	Dictionary	
+8	Online Music - Administration	
+9	Online Music - Playing Music	
+10	Mobile Shop	
+11	Computer Shop	
+12	Flower Shop	
+13	Football Scores	
+14	Webmail	
+15	Webchat	
+16	Course Registration

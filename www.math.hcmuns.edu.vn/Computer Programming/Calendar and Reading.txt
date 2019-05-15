@@ -1,0 +1,40 @@
+An Overview of Algorithms
+Algorithms
+Using Pseudocode Statements and Flowchart Symbols
+An Overview of Computer Programming
+Understanding Computer Systems
+An Overview of C Programming
+Statements
+Selection Statements
+Iteration Statements
+Jump Statements
+Pointers
+What Are Pointers
+Pointer Variables
+The Pointer Operations
+Multiple Indirection
+Arrays and Strings
+Single-Dimension Arrays
+Generating a Pointer to an Array
+Two-Dimensional Arrays
+Strings
+Pointers and Strings
+Functions
+The General Form of a Function
+Understanding the Scope of a Function
+Function Arguments
+Pointers to Functions
+Recursion
+Structures
+Structures
+Arrays of Structures
+Passing Structures to Functions
+Structure Pointers
+Union, Bit-Field, Enumeration
+Input and Output
+Standard I/O
+File I/O
+
+Fundamentals of Computer Programming
+- Herbert Schildt (2000), C: The Complete Reference, 4th Edition, Osborne/McGraw Hill.
+- Joyce Farrell (2015), Programming Logic and Design, Comprehensive, 8th Edition, Cengage Learning.

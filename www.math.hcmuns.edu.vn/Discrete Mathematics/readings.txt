@@ -1,0 +1,12 @@
+﻿Cơ sở logic
+Phương pháp đếm
+Quan hệ
+Đại số Bool và hàm Bool
+Đại cương về đồ thị
+Đường đi và Chu trình
+Cây
+Các bài toán về đường đi
+
+- Toán rời rạc, GS. TS. Nguyễn Hữu Anh, Nhà xuất bản Lao động Xã hội.
+- Toán rời rạc Nâng cao, TS. Trần Ngọc Danh, Nhà xuất bản Đại học Quốc gia TP Hồ Chí Minh.
+- Discrete Mathematics and Its Applications, Seventh Edition, Kenneth H. Rosen, McGraw-Hill, 2012.
